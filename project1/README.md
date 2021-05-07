@@ -30,12 +30,10 @@ automata of the Figure 6, in a way compatible with the results of Figure 13.
 Costa, L. F. (2020). 
 Pattern Cognition, Pattern Recognition
 Costa's Didactic Texts, CDT-13.
-
 <a id="2">[2]</a> 
 Costa, L. F. (2020). 
 Statistical Modeling
 Costa's Didactic Texts, CDT-19.
-
 <a id="3">[3]</a> 
 Costa, L. F. (2020). 
 Where Do Patterns To Be Recognized Come From?
