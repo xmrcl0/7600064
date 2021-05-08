@@ -1,4 +1,4 @@
-# Statistical Modeling and Automatous
+# Statistical Modeling and Automatons
 This project is aimed to introduct the rudiments of Statistical Modeling and
 Automatous implamentations discuted in Costa's Didactic Texts (aka CDTs).
 
